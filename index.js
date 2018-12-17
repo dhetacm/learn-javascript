@@ -1,2 +1,1 @@
-console.log("Hello World one!");
-console.log("Hello World twogit !");
+console.log("Hi Everyone ! How are you today ?");
