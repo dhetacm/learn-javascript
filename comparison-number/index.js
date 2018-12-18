@@ -8,6 +8,8 @@ console.log(`Number 2 = ${num2}`);
 console.log(`Number 3 = ${num3}`);
 console.log(`Number 4 = ${num4}`);
 
+console.log("Comparing the numbers with 3");
+
 function testNum(a) {
   if (a > 3) {
     return "Greater Than";
@@ -15,7 +17,7 @@ function testNum(a) {
     return "Less than";
   }
 }
-
+console.log("Comparing the numbers with 3");
 console.log(testNum(`${num1}`));
 console.log(testNum(`${num2}`));
 console.log(testNum(`${num3}`));
